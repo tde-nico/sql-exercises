@@ -1,3 +1,8 @@
+# sql-exercises
+
+Some exercises from https://youtu.be/p3qvj9hO_Bo and repo https://github.com/WebDevSimplified/Learn-SQL
+
+
 # Learn SQL
 If you haven't already make sure you watch [this video](https://youtu.be/p3qvj9hO_Bo) which will teach you all the basics of SQL in 60 minutes.
 
