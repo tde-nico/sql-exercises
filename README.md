@@ -1,5 +1,19 @@
 # sql-exercises
 
+<!--
+#field
+Learning
+
+#groups
+Courses
+
+#languages
+SQL
+
+#frames and libs
+
+-->
+
 Some exercises from https://youtu.be/p3qvj9hO_Bo and repo https://github.com/WebDevSimplified/Learn-SQL
 
 
